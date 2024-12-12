@@ -1,0 +1,17 @@
+.*
+
+!.gitignore
+
+lab2/.*
+lab2/Debug
+lab2/Drivers
+lab2/*.ld
+lab2/*.launch
+lab2/Core/Startup
+
+lab2_dr_mk/.*
+lab2_dr_mk/Debug
+lab2_dr_mk/Drivers
+lab2_dr_mk/*.ld
+lab2_dr_mk/*.launch
+lab2_dr_mk/Core/Startup
